@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/applestore/static/css/main.b6f3e9fa.css",
-    "main.js": "/applestore/static/js/main.f5ed8fda.js",
+    "main.css": "/applestore/static/css/main.d261ca08.css",
+    "main.js": "/applestore/static/js/main.8f917c17.js",
     "static/js/453.a619057c.chunk.js": "/applestore/static/js/453.a619057c.chunk.js",
     "static/media/경험3.png": "/applestore/static/media/경험3.1b9e93abc848daab949b.png",
     "static/media/slide_watch.png": "/applestore/static/media/slide_watch.7c79275d015066ba6c33.png",
@@ -15,12 +15,12 @@
     "static/media/경험2.png": "/applestore/static/media/경험2.9d833706449cb7dfb7a9.png",
     "static/media/경험4.png": "/applestore/static/media/경험4.e0b1561c84059d2b5068.png",
     "index.html": "/applestore/index.html",
-    "main.b6f3e9fa.css.map": "/applestore/static/css/main.b6f3e9fa.css.map",
-    "main.f5ed8fda.js.map": "/applestore/static/js/main.f5ed8fda.js.map",
+    "main.d261ca08.css.map": "/applestore/static/css/main.d261ca08.css.map",
+    "main.8f917c17.js.map": "/applestore/static/js/main.8f917c17.js.map",
     "453.a619057c.chunk.js.map": "/applestore/static/js/453.a619057c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6f3e9fa.css",
-    "static/js/main.f5ed8fda.js"
+    "static/css/main.d261ca08.css",
+    "static/js/main.8f917c17.js"
   ]
 }
